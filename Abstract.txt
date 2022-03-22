@@ -1,0 +1,7 @@
+What Project is about:
+Mother Goose Kenya is a community-based organisation that focuses on helping communities to improve the quality of child care services.
+They find young girls through partnerships, social media, and referrals, train them to be nannies, and house-help then employ them with guaranteed minimum wage.
+
+This project aims to develop a website for MotherGoose to allows their clients to easily view and choose the nannies they want based on desired qualities.
+The system will replace the manual record keeping system used currently using MS Excel and provide a database management system that will improve the efficiency of fucntionc like:
+data storage, data retrieval, data processing and data display.
